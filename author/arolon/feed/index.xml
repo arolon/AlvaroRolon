@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>arolon &#8211; Rolon</title>
+	<atom:link href="https://arolon.github.io/AlvaroRolon/author/arolon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arolon.github.io/AlvaroRolon</link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Sun, 28 Jul 2019 01:48:10 +0000</lastBuildDate>
+	<language>es-CO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<item>
+		<title>¡Hola mundo!</title>
+		<link>https://arolon.github.io/AlvaroRolon/2019/07/28/hola-mundo/</link>
+				<comments>https://arolon.github.io/AlvaroRolon/2019/07/28/hola-mundo/#comments</comments>
+				<pubDate>Sun, 28 Jul 2019 01:48:10 +0000</pubDate>
+		<dc:creator><![CDATA[arolon]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://arolon.github.io/AlvaroRolon/?p=1</guid>
+				<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!]]></description>
+								<content:encoded><![CDATA[
+<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://arolon.github.io/AlvaroRolon/2019/07/28/hola-mundo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
